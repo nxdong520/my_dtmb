@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">My DTMB</string>
+
+    <string-array name="freq_arrays">
+        <item>频道号:01\t\t\t频点:52.5MHz</item>
+        <item>频道号:02\t\t\t频点:60.5MHz</item>
+        <item>频道号:03\t\t\t频点:68.5MHz</item>
+        <item>频道号:04\t\t\t频点:80MHz</item>
+        <item>频道号:05\t\t\t频点:88MHz</item>
+        <item>频道号:06\t\t\t频点:171MHz</item>
+        <item>频道号:07\t\t\t频点:179MHz</item>
+        <item>频道号:08\t\t\t频点:187MHz</item>
+        <item>频道号:09\t\t\t频点:195MHz</item>
+        <item>频道号:10\t\t\t频点:203MHz</item>
+        <item>频道号:11\t\t\t频点:211MHz</item>
+        <item>频道号:12\t\t\t频点:219MHz</item>
+        <item>频道号:13\t\t\t频点:474MHz</item>
+        <item>频道号:14\t\t\t频点:482MHz</item>
+        <item>频道号:15\t\t\t频点:490MHz</item>
+        <item>频道号:16\t\t\t频点:498MHz</item>
+        <item>频道号:17\t\t\t频点:506MHz</item>
+        <item>频道号:18\t\t\t频点:514MHz</item>
+        <item>频道号:19\t\t\t频点:522MHz</item>
+        <item>频道号:20\t\t\t频点:530MHz</item>
+        <item>频道号:21\t\t\t频点:538MHz</item>
+        <item>频道号:22\t\t\t频点:546MHz</item>
+        <item>频道号:23\t\t\t频点:554MHz</item>
+        <item>频道号:24\t\t\t频点:562MHz</item>
+        <item>增补号:38\t\t\t频点:570MHz</item>
+        <item>增补号:39\t\t\t频点:578MHz</item>
+        <item>增补号:40\t\t\t频点:586MHz</item>
+        <item>增补号:41\t\t\t频点:594MHz</item>
+        <item>增补号:42\t\t\t频点:602MHz</item>
+        <item>频道号:25\t\t\t频点:610MHz</item>
+        <item>频道号:26\t\t\t频点:618MHz</item>
+        <item>频道号:27\t\t\t频点:626MHz</item>
+        <item>频道号:28\t\t\t频点:634MHz</item>
+        <item>频道号:29\t\t\t频点:642MHz</item>
+        <item>频道号:30\t\t\t频点:650MHz</item>
+        <item>频道号:31\t\t\t频点:658MHz</item>
+        <item>频道号:32\t\t\t频点:666MHz</item>
+        <item>频道号:33\t\t\t频点:674MHz</item>
+        <item>频道号:34\t\t\t频点:682MHz</item>
+        <item>频道号:35\t\t\t频点:690MHz</item>
+        <item>频道号:36\t\t\t频点:698MHz</item>
+        <item>频道号:37\t\t\t频点:706MHz</item>
+        <item>频道号:38\t\t\t频点:714MHz</item>
+        <item>频道号:39\t\t\t频点:722MHz</item>
+        <item>频道号:40\t\t\t频点:730MHz</item>
+        <item>频道号:41\t\t\t频点:738MHz</item>
+        <item>频道号:42\t\t\t频点:746MHz</item>
+        <item>频道号:43\t\t\t频点:754MHz</item>
+        <item>频道号:44\t\t\t频点:762MHz</item>
+        <item>频道号:45\t\t\t频点:770MHz</item>
+        <item>频道号:46\t\t\t频点:778MHz</item>
+        <item>频道号:47\t\t\t频点:786MHz</item>
+        <item>频道号:48\t\t\t频点:794MHz</item>
+        <item>频道号:49\t\t\t频点:802MHz</item>
+    </string-array>
+
+</resources>
